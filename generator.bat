@@ -1,0 +1,1 @@
+java -jar openapi/openapi-generator-cli-5.0.0.jar generate -i dist.json -o src/api -g typescript-axios

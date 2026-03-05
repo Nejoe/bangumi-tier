@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{aR as o,aE as n,u as a,I as r,bx as s,H as c}from"./index-DJu899zG.js";const _={};function f(m,u){const e=o("v-btn");return n(),a("div",null,[r(e,{href:"https://bangumi.tv/user/nejoe"},{default:s(()=>[c("什么都还没有")]),_:1})])}const p=t(_,[["render",f]]);export{p as default};
